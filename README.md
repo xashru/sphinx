@@ -11,7 +11,7 @@ Hugging Face dataset (train + evaluation):
 
 ## Repository Status
 At the moment, this GitHub repo mainly serves as a landing page and pointer to the **paper** and **dataset**.  
-Code will be pushed here once it is cleaned up (~1 week).
+Code will be pushed here soon once it is cleaned up.
 
 ---
 
