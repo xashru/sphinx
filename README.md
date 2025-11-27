@@ -22,15 +22,6 @@ Sphinx procedurally generates visual reasoning tasks with verifiable ground-trut
 - Precise, fine-grained evaluation of multimodal models.
 - Large-scale dataset construction for supervised training and RL-style post-training.
 
-The benchmark currently includes 25 task types spanning:
-
-- Symmetry detection  
-- Geometric transformations  
-- Spatial reasoning  
-- Chart interpretation  
-- Sequence prediction  
-
-
 ---
 
 ## Hugging Face Dataset
